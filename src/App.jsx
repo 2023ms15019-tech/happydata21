@@ -14,7 +14,7 @@ function App() {
     // Fetch and parse the CSV data
     const fetchData = async () => {
       try {
-        const response = await fetch('/dashboard_data.csv');
+        const response = await fetch(import.meta.env.BASE_URL + 'dashboard_data.csv');
         const text = await response.text();
         const parsedData = csv(text);
         setData(parsedData);
