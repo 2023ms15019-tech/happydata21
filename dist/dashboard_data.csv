@@ -1,0 +1,33 @@
+﻿Year,Country,Region,Happiness_Score,GDP_per_Capita,Literacy_Rate,Poverty_Rate,Education_Index,CO2_Emissions,Unemployment_Rate
+2000,India,South Asia,5,442,64.8,36,0.49,0.9,7.5
+2001,India,South Asia,5.1,455,65.2,35,0.5,1,7.3
+2002,India,South Asia,5.2,480,65.5,34,0.51,1,7.1
+2003,India,South Asia,5.3,530,66,33,0.52,1.1,7
+2004,India,South Asia,5.4,605,66.5,32,0.53,1.1,6.8
+2005,India,South Asia,5.5,675,67,31,0.54,1.2,6.6
+2006,India,South Asia,5.6,785,67.5,30,0.55,1.2,6.5
+2007,India,South Asia,5.7,950,68,29,0.56,1.3,6.3
+2008,India,South Asia,5.8,995,68.5,28,0.57,1.3,6.2
+2009,India,South Asia,5.8,1120,69,27,0.58,1.4,6
+2010,India,South Asia,5.9,1350,69.5,26,0.59,1.5,5.9
+2011,India,South Asia,6,1460,70,25,0.6,1.5,5.8
+2012,India,South Asia,6,1540,70.5,24,0.61,1.6,5.7
+2013,India,South Asia,6.1,1650,71,23,0.62,1.7,5.6
+2014,India,South Asia,6.1,1710,71.5,22,0.63,1.7,5.5
+2015,India,South Asia,6.2,1850,72,21,0.64,1.8,5.4
+2016,India,South Asia,6.2,1950,72.5,20,0.65,1.8,5.3
+2017,India,South Asia,6.3,2090,73,19,0.66,1.9,5.2
+2018,India,South Asia,6.3,2200,73.5,18,0.67,2,5.1
+2019,India,South Asia,6.4,2350,74,17,0.68,2.1,5
+2020,India,South Asia,6.4,2290,74.2,16,0.69,1.9,6
+2021,India,South Asia,6.5,2450,74.5,15,0.7,2.1,6.5
+2022,India,South Asia,6.5,2600,74.8,14,0.71,2.2,7
+2023,India,South Asia,6.6,2750,75,13,0.72,2.2,7.2
+2000,Pakistan,South Asia,4,500,50,40,0.45,0.7,8
+2023,Pakistan,South Asia,4.5,1500,65,25,0.6,1.5,6
+2000,Bangladesh,South Asia,4.2,400,60,45,0.5,0.5,9
+2023,Bangladesh,South Asia,5,2500,75,15,0.7,1,4.5
+2000,Nigeria,Sub-Saharan Africa,3.5,250,55,60,0.4,0.4,15
+2023,Nigeria,Sub-Saharan Africa,4.5,2000,70,30,0.65,1,8
+2000,South Africa,Sub-Saharan Africa,4.5,4000,80,20,0.75,7,20
+2023,South Africa,Sub-Saharan Africa,5,6500,90,10,0.85,6.5,30
